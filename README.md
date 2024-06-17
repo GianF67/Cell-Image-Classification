@@ -1,10 +1,5 @@
 # Cells Image Classification usìng CNN
-This project aims to classify electron microscope images of cells using Convolutional Neural Networks (CNNs). Our goal is to accurately classify cell types into eight different predefined classes, leveraging a dataset of 15,092 images.
-
-## Technologies Used
-- PySpark: For data handling and processing
-- Google Colab: For executing and sharing Jupyter notebooks
-- Deep Learning Frameworks: Implementations utilize both hand-crafted and adapted CNN architectures
+This project aims to classify electron microscope images of cells using Convolutional Neural Networks (CNNs). Our goal is to accurately classify cell types into eight different predefined classes, leveraging a dataset of 15,092 images. The notebook is designed to run on Google Colab, using its GPU.
 
 ## Repository Contents
 - Data Preprocessing: Normalization and one-hot encoding to prepare data for training.
